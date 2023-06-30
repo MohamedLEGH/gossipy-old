@@ -19,8 +19,6 @@ __status__ = "Development"
 
 ########### TODO Mohamed
 
-# Zero test with a centralized solution
-
 # First test with a simple topology
 # 1 node in the middle and 4 peers
 # spam base divided in 5 parts
